@@ -1,6 +1,6 @@
 !.eslint.js
 !babel.config.js
-*.js
+/*.js
 
 # Dependency directories
 node_modules
