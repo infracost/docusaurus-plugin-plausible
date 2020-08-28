@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-plugin-plausible",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A Docusaurus plugin for adding Plausible analytics to your Docusaurus site",
   "main": "index.js",
   "scripts": {
@@ -35,9 +35,9 @@
     "eslint": "^7.7.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.1"
   },
   "dependencies": {
-    "eslint-plugin-prettier": "^3.1.4"
   }
 }
