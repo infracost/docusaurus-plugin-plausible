@@ -1,6 +1,6 @@
 # docusaurus-plugin-plausible
 
-[![npm package](https://flat.badgen.net/npm/v/docusaurus.plugin-plausible)](https://badgen.net/npm/v/docusaurus-plugin-plausible)
+<a href="https://www.npmjs.com/package/docusaurus-plugin-plausible"><img alt="npm docusaurus-plugin-plausible" src="https://img.shields.io/npm/v/docusaurus-plugin-plausible"/></a>
 
 A Docusaurus plugin for [Plausible](https://plausible.io/) analytics. Inspired by [gatsby-plugin-plausible](https://github.com/Aquilio/gatsby-plugin-plausible).
 
