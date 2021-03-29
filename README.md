@@ -23,9 +23,9 @@ A Docusaurus plugin for [Plausible](https://plausible.io/) analytics. Inspired b
     ...
     plugins: [
       [
-        path.resolve(__dirname, '../docusaurus-plugin-plausible'),
+        'docusaurus-plugin-plausible',
         {
-          domain,
+          domain: 'your-website.com',
         },
       ]
     ],
